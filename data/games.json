@@ -1,0 +1,20 @@
+{
+  "player": "Andre",
+  "games": [
+    { "id": 1,  "date": "2026-09-26", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 27, "oppTeam": "Los Angeles Rams", "oppScore": 24 },
+    { "id": 2,  "date": "2026-09-26", "opponent": "James", "myTeam": "Seattle Seahawks", "myScore": 14, "oppTeam": "Cincinnati Bengals", "oppScore": 30 },
+    { "id": 3,  "date": "2026-09-26", "opponent": "James", "myTeam": "Chicago Bears", "myScore": 3, "oppTeam": "Baltimore Ravens", "oppScore": 12 },
+    { "id": 4,  "date": "2026-09-26", "opponent": "James", "myTeam": "Washington Commanders", "myScore": 13, "oppTeam": "Philadelphia Eagles", "oppScore": 15 },
+    { "id": 5,  "date": "2026-09-26", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 24, "oppTeam": "Buffalo Bills", "oppScore": 13 },
+    { "id": 6,  "date": "2026-09-26", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 30, "oppTeam": "Baltimore Ravens", "oppScore": 14 },
+    { "id": 7,  "date": "2026-09-26", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 10, "oppTeam": "Baltimore Ravens", "oppScore": 17, "notes": "Neither player remembered this game; teams and score agreed on afterward." },
+    { "id": 8,  "date": "2026-09-27", "opponent": "Online", "myTeam": "Los Angeles Chargers", "myScore": 7, "oppTeam": "Detroit Lions", "oppScore": 6 },
+    { "id": 9,  "date": "2026-09-27", "opponent": "Online", "myTeam": "Los Angeles Chargers", "myScore": 0, "oppTeam": "Cincinnati Bengals", "oppScore": 21 },
+    { "id": 10, "date": "2026-09-27", "opponent": "Online", "myTeam": "Los Angeles Chargers", "myScore": 17, "oppTeam": "Tampa Bay Buccaneers", "oppScore": 10 },
+    { "id": 11, "date": "2026-09-27", "opponent": "Online", "myTeam": "Cincinnati Bengals", "myScore": 34, "oppTeam": "Indianapolis Colts", "oppScore": 7 },
+    { "id": 12, "date": "2026-09-27", "opponent": "James", "myTeam": "Baltimore Ravens", "myScore": 24, "oppTeam": "Kansas City Chiefs", "oppScore": 17 },
+    { "id": 13, "date": "2026-10-07", "opponent": "James", "myTeam": "Dallas Cowboys", "myScore": 28, "oppTeam": "Atlanta Falcons", "oppScore": 21, "notes": "James conceded." },
+    { "id": 14, "date": "2026-10-07", "opponent": "James", "myTeam": "Chicago Bears", "myScore": 3, "oppTeam": "Seattle Seahawks", "oppScore": 17 },
+    { "id": 15, "date": "2026-10-09", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 21, "oppTeam": "Seattle Seahawks", "oppScore": 7 }
+  ]
+}
