@@ -1,5 +1,6 @@
 {
   "player": "Andre",
   "games": [
+    { "id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 21, "oppTeam": "Chicago Bears", "oppScore": 0 }
   ]
 }
