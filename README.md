@@ -11,12 +11,12 @@ Every game is one line in [`data/games.json`](data/games.json). The scoreboard r
 Add a new line at the end of the `games` list. Put a comma after the line before it, and no comma after the new last line.
 
 ```json
-{ "id": 16, "date": "2026-10-25", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 21, "oppTeam": "Seattle Seahawks", "oppScore": 7 }
+{ "id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Los Angeles Chargers", "myScore": 21, "oppTeam": "Seattle Seahawks", "oppScore": 7 }
 ```
 
 | Field | What goes in it |
 |---|---|
-| `id` | The next number after the last game |
+| `id` | The next number after the last game (start at 1 if the list is empty) |
 | `date` | The day it was played, as `YYYY-MM-DD` |
 | `opponent` | `"James"`, `"Online"`, or another player's name (a new name gets its own tab) |
 | `myTeam`, `oppTeam` | Full team names, city and nickname, such as `"Los Angeles Chargers"` |
