@@ -1,6 +1,7 @@
 {
   "player": "Andre",
   "games": [
-    { "id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 21, "oppTeam": "Chicago Bears", "oppScore": 0 }
+    { "id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 21, "oppTeam": "Chicago Bears", "oppScore": 0 },
+    { "id": 2, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 28, "oppTeam": "Buffalo Bills", "oppScore": 21 }
   ]
 }
