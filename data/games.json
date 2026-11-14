@@ -1,9 +1,10 @@
 {
   "player": "Andre",
   "games": [
-    { "id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 21, "oppTeam": "Chicago Bears", "oppScore": 0 },
-    { "id": 2, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 28, "oppTeam": "Buffalo Bills", "oppScore": 21 },
-    { "id": 3, "date": "2026-11-04", "opponent": "Online", "myTeam": "Detroit Lions", "myScore": 20, "oppTeam": "Chicago Bears", "oppScore": 10, "notes": "Opponent: zikesss999" },
-    { "id": 4, "date": "2026-11-13", "opponent": "James", "myTeam": "San Francisco 49ers", "myScore": 42, "oppTeam": "Chicago Bears", "oppScore": 14 }
+    {"id": 1, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 21, "oppTeam": "Chicago Bears", "oppScore": 0},
+    {"id": 2, "date": "2026-11-03", "opponent": "James", "myTeam": "Detroit Lions", "myScore": 28, "oppTeam": "Buffalo Bills", "oppScore": 21},
+    {"id": 3, "date": "2026-11-04", "opponent": "Online", "myTeam": "Detroit Lions", "myScore": 20, "oppTeam": "Chicago Bears", "oppScore": 10, "notes": "Opponent: zikesss999"},
+    {"id": 4, "date": "2026-11-13", "opponent": "James", "myTeam": "San Francisco 49ers", "myScore": 42, "oppTeam": "Chicago Bears", "oppScore": 14},
+    {"id": 5, "date": "2026-11-13", "opponent": "James", "myTeam": "San Francisco 49ers", "myScore": 3, "oppTeam": "Houston Texans", "oppScore": 28}
   ]
 }
